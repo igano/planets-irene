@@ -7,4 +7,5 @@ I like Mars it's cold and dry, but red is my favorite color
 Some other planets might be an option too
 nuevo cambio
 Thinking about going to Venus
-
+Hi. Sorry. I didn t add a mars.txt in my repo
+now I have added mars.txt in my repo as well
